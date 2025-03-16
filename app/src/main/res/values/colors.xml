@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu sắc mới phù hợp với giao diện yêu cầu -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#D3D3D3</color> <!-- Xám nhạt cho nút toán tử -->
+    <color name="gray_border">#B0B0B0</color> <!-- Màu viền -->
+    <color name="gray_lighter">#F0F0F0</color> <!-- Màu viền -->
+</resources>
